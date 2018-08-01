@@ -1,0 +1,14 @@
+first:
+  text: 'The birthplace of the writer Jack London'
+  position: 1
+  quiz: countries_quiz
+
+second:
+  text: "The world's largest city-state"
+  position: 2
+  quiz: countries_quiz
+
+third:
+  text: 'The Least densely populated country'
+  position: 3
+  quiz: countries_quiz

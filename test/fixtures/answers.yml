@@ -1,0 +1,59 @@
+one:
+  text: 'United Kingdom'
+  is_correct: false
+  question: first
+
+two:
+  text: 'Unites States'
+  is_correct: true
+  question: first
+
+three:
+  text: 'France'
+  is_correct: false
+  question: first
+
+four:
+  text: 'Russia'
+  is_correct: false
+  question: first
+
+five:
+  text: 'Singapore'
+  is_correct: true
+  question: second
+
+six:
+  text: 'Monaco'
+  is_correct: false
+  question: second
+
+seven:
+  text: 'Luxemburg'
+  is_correct: false
+  question: second
+
+eight:
+  text: 'Malta'
+  is_correct: false
+  question: second
+
+nine:
+  text: 'Mongolia'
+  is_correct: true
+  question: third
+
+ten:
+  text: 'Russia'
+  is_correct: false
+  question: third
+
+eleven:
+  text: 'United States'
+  is_correct: false
+  question: third
+
+twelve:
+  text: 'Iceland'
+  is_correct: false
+  question: third
